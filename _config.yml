@@ -7,6 +7,10 @@ actors:
     image_url: /images/actors/bob.png
     name: bob
     url: http://sns.example.com/bob
+  hinahypersonica:
+    image_url: /images/actors/etDVh3D9_400x400.jpg
+    name: 雛形
+    url: https://twitter.com/hinahypersonica
 author: Hinagata
 description: Engineering Monologue between Computer-Science and Computer-Aided-Engineering
 description_long: CSとCAEの狭間で縁起の良い論文を読むPodcast
